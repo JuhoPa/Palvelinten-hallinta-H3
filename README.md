@@ -9,6 +9,6 @@ You can find the assignment on the course webpage [terokarvinen.com](https://ter
 - Pystyt tekemään kaikki tärkeimmät formatoinnit näppäimistösi symboleilla
 
 Alla muutama esimerkki.
-	`# otsikko1` = 1 tason otsikko
-	`## otsikko2` = 2 tason otsikko
-	`**hei!**` = korostaa sanan hei!
+	- `# otsikko1` = 1 tason otsikko
+	- `## otsikko2` = 2 tason otsikko
+	- `**hei!**` = korostaa sanan hei!
