@@ -17,7 +17,7 @@ Alla muutama esimerkki.
 ```
 ## a)
 
-![](H3a.png)
+![]( H3a.png)
 
 ## b)
 
