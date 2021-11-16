@@ -15,3 +15,12 @@ Alla muutama esimerkki.
 ## otsikko2` = 2 tason otsikko
 **hei!** = korostaa sanan hei!
 ```
+## a)
+
+![](H3a.png)
+
+## b)
+
+## c)
+
+## d)
