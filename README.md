@@ -31,15 +31,15 @@ git push
 ```
 ![b-tehtävä](H3b.png)
 
-*git log* komento näyttää kaikki commitit, kellonajan milloin ne on tehty ja annetun commit kuvauksen
-*git diff /home/juho/juhogittest/JPtestrepo foo.py* näyttää tiedoston committed version ja muutokset joita on tehty sen jälkeen mutta ei ole vielä commitattu.
-*git blame --color-by-age foo.py* näyttää kaikki kyseisen tiedoston rivit ja milloin ne on kirjoitettu. Kertoo myös jos tiedostossa on rivejä mitä ei ole commitattu.
+**git log** komento näyttää kaikki commitit, kellonajan milloin ne on tehty ja annetun commit kuvauksen
+**git diff /home/juho/juhogittest/JPtestrepo foo.py** näyttää tiedoston committed version ja muutokset joita on tehty sen jälkeen mutta ei ole vielä commitattu.
+**git blame --color-by-age foo.py** näyttää kaikki kyseisen tiedoston rivit ja milloin ne on kirjoitettu. Kertoo myös jos tiedostossa on rivejä mitä ei ole commitattu.
 
 ![b2-tehtävä](H3b2.png)
 
 ## c)
 
-Annoin komennon *git reset --hard* se palauttaa kaikki tiedostot edellisen commitin tilaan.
+Annoin komennon **git reset --hard** se palauttaa kaikki tiedostot edellisen commitin tilaan.
 Alla olevassa kuvassa näkyy viimeinen rivi on kadonnut foo.py tiedostosta.
 
 ![c-tehtävä](H3c.png)
