@@ -17,7 +17,7 @@ Alla muutama esimerkki.
 ```
 ## a)
 
-![]( H3a.png)
+![a-tehtävä](H3a.png)
 
 ## b)
 
